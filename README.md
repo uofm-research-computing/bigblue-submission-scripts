@@ -15,6 +15,7 @@ wget https://github.com/uofm-research-computing/bigblue-research-computing/raw/r
 ```
 using the link you got when your right-clicked.
 
+![](https://github.com/uofm-research-computing/bigblue-submission-scripts/blob/main/RightClickRaw.png)
 
 ## Partitions/Queues
 When submitting a job, you'll need to specify which partition your job should run in. Here are the possible queues available.
