@@ -42,7 +42,7 @@ You can watch the progress of your job using the `squeue -u $USER` command and r
 
 ### sbatch
 
-You can submit jobs using the sbatch command: `sbatch jobscript.sh`. However, it’s important to ensure that your submission script (`jobscript.sh`) follows the required format. Many issues arise when users overlook this critical step. Please visit this [sample script](https://github.com/uofm-research-computing/hpc/blob/60538f2cba2066fb2f2d1dc4fe04a39a5e9a9ed5/Submission%20Scripts/General%20Slurm/submitManual.sh) that walks through the format and the many flags.
+You can submit jobs using the sbatch command: `sbatch jobscript.sh`. However, it’s important to ensure that your submission script (`jobscript.sh`) follows the required format. Many issues arise when users overlook this critical step. Please visit this [sample script]( https://github.com/uofm-research-computing/bigblue-submission-scripts/blob/main/Submission%20Scripts/General%20Slurm/submitAllOptions.sh ) that walks through the format and the many flags.
 
 ### srun
 
